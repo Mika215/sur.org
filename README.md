@@ -30,7 +30,8 @@ console.log(innerVariable); // ReferenceError
 </details>
 <detailes>
 <summary>Extend the below arrow</summary>
-```
+```js
+/* Here I am hidinng some text just to check how it is going to appear later on.
 Here I am hidinng some text just to check how it is going to appear later on.
 Here I am hidinng some text just to check how it is going to appear later on.
 Here I am hidinng some text just to check how it is going to appear later on.
@@ -44,8 +45,6 @@ Here I am hidinng some text just to check how it is going to appear later on.
 Here I am hidinng some text just to check how it is going to appear later on.
 Here I am hidinng some text just to check how it is going to appear later on.
 Here I am hidinng some text just to check how it is going to appear later on.
-Here I am hidinng some text just to check how it is going to appear later on.
-Here I am hidinng some text just to check how it is going to appear later on.
+Here I am hidinng some text just to check how it is going to appear later on.*/
 ```
 </details>
----
